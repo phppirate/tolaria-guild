@@ -1,0 +1,13 @@
+name: Past Week
+icon: calendar-dots
+color: null
+order: 2
+sort: "property:date:desc"
+filters:
+  all:
+    - field: type
+      op: equals
+      value: Daily Note
+    - field: date
+      op: after
+      value: eight days ago

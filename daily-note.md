@@ -1,9 +1,9 @@
 ---
 type: Type
-icon: calendar
-color: "#f59e0b"
-order: 1
-sidebar label: Daily Notes
+_icon: calendar
+_color: "#f59e0b"
+_order: 1
+_sidebar_label: Daily Notes
 _sort: "property:date:desc"
 date:
 ---

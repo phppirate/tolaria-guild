@@ -1,6 +1,7 @@
 name: Daily Notes
 icon: calendar
 color: null
+order: 1
 sort: "property:date:desc"
 filters:
   all:
