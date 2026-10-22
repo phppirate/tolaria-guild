@@ -1,0 +1,9 @@
+name: Daily Notes
+icon: calendar
+color: null
+sort: "property:date:desc"
+filters:
+  all:
+    - field: type
+      op: equals
+      value: Daily Note
