@@ -1,0 +1,13 @@
+name: Recipes
+icon: cooking-pot
+color: null
+order: 3
+sort: "title:asc"
+filters:
+  any:
+    - field: type
+      op: equals
+      value: Recipe
+    - field: tags
+      op: contains
+      value: recipe
