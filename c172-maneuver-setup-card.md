@@ -7,7 +7,6 @@ related_to:
   - "[[preston-nelson]]"
   - "[[red-eagle-aviation]]"
 ---
-
 # C172 Maneuver Setup Card
 
 #flying #checkride
@@ -25,14 +24,14 @@ N73785, a 1977 C172N with a 180 hp O-360 (STC SA4428SW). Per the STC supplement,
 Source: AC 61-98 via [CFI Commonplace Book](https://publish.obsidian.md/cfi-commonplace-book/Filed/CHAPS). (AC 61-98D's proficiency plan suggests ≥3,000 AGL for airwork. The ACS minimum is 1,500 AGL.)
 
 | Flow | Fuel | Mixture | Carb heat | Flaps |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | **Clean / cruise** | BOTH | As required | OFF | 0° |
 | **Landing config** | BOTH | Rich / as required | ON | As required (Vfe 85) |
 
 ## Maneuvers
 
 | Maneuver | Alt / flaps | Power, carb heat | Target speed | Key actions | ACS |
-|---|---|---|---|---|---|
+| --- | --- | --- | --- | --- | --- |
 | **Steep turns** | Practice area 4,500-5,500 MSL; flaps 0 | Clean flow; ~2,100-2,200 RPM *typical*; +100-200 RPM in the turn | ≤ Va: 97 / 89 / 80 at 2,300 / 1,950 / 1,600 lb. Entry ~90-95 *typical* | 45° bank, 360° each way. Add back pressure past 30° bank. Roll out ~20° before the entry heading. 45° stall is 56 | 45° ±5°, alt ±100, airspeed ±10, rollout ±10° |
 | **Slow flight** | ≥1,500 AGL; flaps in stages below 85 (as assigned) | Carb heat ON, ~1,500 RPM *typical*, then ~1,800-2,000 to hold altitude *typical* | ~5-10 kt above stall-warning onset *typical*. Vs1 47 / Vso 41 | Pitch controls airspeed, power controls altitude. Keep trimming. **No stall horn.** Recover: full power, carb heat cold, flaps 20° first, then in stages | Alt ±100, hdg ±10°, airspeed +10/-0, bank ±10° |
 | **Power-off stall** | ≥1,500 AGL; landing flaps (often 40°) | Landing flow; ~1,500 RPM *typical*, then idle | Stabilize at 55-65 (flaps 40°). Stalls near 41 | Idle, raise to landing attitude, hold to full stall. Recover: lower nose, full power, carb heat cold, wings level, flaps 20°, positive climb, flaps in stages, Vx 59 / Vy 73. Up to 180 ft loss | Full stall, recover per POH. Hdg ±10°, or bank ≤20° ±10° if turning |
@@ -56,7 +55,5 @@ Other limits: Vfe 85, Vno 128, Vne 160, max demonstrated crosswind 15 kt. Go-aro
 - **S**ecure: mixture idle cutoff, fuel OFF, mags OFF, flaps as required (40° for the forced landing, 60 KIAS), master OFF, doors unlatched.
 
 Source: [Pilots of America thread](https://www.pilotsofamerica.com/community/threads/checklist-acronyms-and-sayings.7052/), with item details from POH pp. 3-3/3-4. *Versions vary, so confirm with Preston.* Simulated recovery: carb heat cold, full power, Vy 73.
-
----
 
 **Open question for Preston:** the Drive POH cover reads **N73977**, and the W&B shows **2,550 lb gross** against the POH's 2,300 lb. Details are in [[checkride-maneuvers-acs-tolerances]].
