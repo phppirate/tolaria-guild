@@ -1,6 +1,12 @@
 ---
 type: Note
 status: Active
+tags:
+  - flying
+  - checkride
+  - c172
+  - maneuvers
+assistant: "[[maverick]]"
 related_to:
   - "[[checkride-maneuvers-acs-tolerances]]"
   - "[[checkride-oral-prep]]"
@@ -8,8 +14,6 @@ related_to:
   - "[[red-eagle-aviation]]"
 ---
 # C172 Maneuver Setup Card
-
-#flying #checkride
 
 N73785, a 1977 C172N with a 180 hp O-360 (STC SA4428SW). Per the STC supplement, POH speeds and procedures are unchanged. Home field is S27 (2,930 ft). CFI is [[preston-nelson|Preston Nelson]]. All speeds are KIAS at 2,300 lb and come from the POH via [[checkride-maneuvers-acs-tolerances|Checkride Maneuvers - ACS Tolerances]]. Anything marked ***typical*** is technique, not a POH number. RPMs are all typical, so **confirm them with Preston**. Oral prep: [[checkride-oral-prep|Checkride Oral Prep]].
 
